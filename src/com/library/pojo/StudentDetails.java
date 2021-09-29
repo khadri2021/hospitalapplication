@@ -1,6 +1,6 @@
 package com.library.pojo;
 
-public class StudentDetails {
+public class StudentDetails{
 	private String studentName;
 	private String rollNumber;
 	private String branch;

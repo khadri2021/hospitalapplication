@@ -32,6 +32,7 @@ public class Student {
 		details.setLibraryId(libraryId);
 		DetailsOfStudent detailsOfStudent = new DetailsOfStudent();
 		try {
+
 			detailsOfStudent.detailsOfStudent(details);
 		} catch (IOException e) {
 			e.printStackTrace();
