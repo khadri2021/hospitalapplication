@@ -1,5 +1,9 @@
 package com.library.pojo;
 
+/**
+ * @author Harshini
+ *
+ */
 public class StudentDetails{
 	private String studentName;
 	private String rollNumber;
