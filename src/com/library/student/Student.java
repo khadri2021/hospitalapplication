@@ -7,6 +7,10 @@ import com.library.constants.Constants;
 import com.library.pojo.StudentDetails;
 import com.library.student.io.DetailsOfStudent;
 
+/**
+ * @author Teja Vardhan
+ *
+ */
 public class Student {
 	private static Scanner scanner;
 
